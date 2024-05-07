@@ -2,6 +2,8 @@
 
 This tool automates the process of downloading SEC 10-K filings for public firms, analyzing the text data, and providing insights through a simple web interface.
 
+![Steven Hao 10-K Filings Analysis](https://github.com/huntsmanhao/secAnalysis/assets/144931059/2051ce4b-f3c6-43ce-9e7b-90e317fa32f0)
+
 ## Requirements
 
 ### Task 1.1: Download Data from the SEC-EDGAR
