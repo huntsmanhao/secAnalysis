@@ -50,6 +50,8 @@ The app can be deployed on any web hosting platform supporting Django applicatio
 - **Transformers Library**: Utilized for its powerful NLP capabilities, enabling efficient text analysis.
 - **Bootstrap**: Used for quick and responsive UI development.
 
+- The rationale for the insight is as follows: Users would care about this insight because it provides valuable information on the company's performance and strategic direction, enabling them to make informed decisions regarding investments, partnerships, or other business activities.
+
 ## How to Run
 1. Visit: https://stevenhao.pythonanywhere.com/
 
