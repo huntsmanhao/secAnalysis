@@ -3,7 +3,7 @@
 This tool automates the process of downloading SEC 10-K filings for public firms, analyzing the text data, and providing insights through a simple web interface.
 
 ![Steven Hao 10-K Filings Analysis](https://github.com/huntsmanhao/secAnalysis/assets/144931059/2051ce4b-f3c6-43ce-9e7b-90e317fa32f0)
-Note: Sometimes running on a slow local machine may cause long runtimes of up to 5 minutes. Above is a screenshot of an example output if this occurs.
+Note: Above is a screenshot of an example output of the 10-K Filings Analysis Tool.
 Due to disk space limitation, the deployment wasn't successful to pythonanywhere free version. Here is a link to the demo video: https://youtu.be/-yPof_U6Xr4
 
 ## Requirements
