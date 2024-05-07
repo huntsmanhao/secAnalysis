@@ -4,6 +4,7 @@ This tool automates the process of downloading SEC 10-K filings for public firms
 
 ![Steven Hao 10-K Filings Analysis](https://github.com/huntsmanhao/secAnalysis/assets/144931059/2051ce4b-f3c6-43ce-9e7b-90e317fa32f0)
 Note: Sometimes running on a slow local machine may cause long runtimes of up to 5 minutes. Above is a screenshot of an example output if this occurs.
+Due to disk space limitation, the deployment wasn't successful to pythonanywhere free version. Here is a link to the demo video: https://youtu.be/-yPof_U6Xr4
 
 ## Requirements
 
@@ -45,6 +46,7 @@ The solution is implemented using Django, a high-level Python web framework. Bel
 
 ## Deployment
 The app can be deployed on any web hosting platform supporting Django applications. I have deployed this app on pythonanywhere. It is available at the url: https://stevenhao.pythonanywhere.com/
+Due to disk space limitation, the deployment wasn't successful to pythonanywhere free version. Here is a link to the demo video: https://youtu.be/-yPof_U6Xr4
 
 ## Rationale
 - **Django**: Chosen for its simplicity, scalability, and robustness in building web applications.
@@ -54,7 +56,7 @@ The app can be deployed on any web hosting platform supporting Django applicatio
 - The rationale for the insight is as follows: Users would care about this insight because it provides valuable information on the company's performance and strategic direction, enabling them to make informed decisions regarding investments, partnerships, or other business activities.
 
 ## How to Run
-1. Visit: https://stevenhao.pythonanywhere.com/
+1. Due to disk space limitation, the deployment wasn't successful to pythonanywhere free version. Here is a link to the demo video: https://youtu.be/-yPof_U6Xr4
 
 OR
 
